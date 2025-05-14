@@ -1,3 +1,5 @@
 # Java-Demo
-This is my first Git repository and I am learning Java.
+This is my first Git repository.
+<br>
+I am learning Java.
 
